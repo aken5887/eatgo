@@ -1,0 +1,13 @@
+[
+  {
+    "id" : 2,
+    "name" : "Chicken"
+  },
+  {
+    "id" : 3,
+    "destroy" : true
+  },
+  {
+    "name" : "Cheese ball"
+  }
+]
